@@ -1,4 +1,4 @@
-#Detalles del producto
+#Detalles del producto: Nombre, Precio y Cantidad 
 products = [
     {'name': 'laptop', 'price': 800, 'quantity': 4},
     {'name': 'mouse', 'price': 40, 'quantity': 10},
